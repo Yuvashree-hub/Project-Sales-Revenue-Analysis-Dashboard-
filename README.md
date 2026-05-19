@@ -1,2 +1,15 @@
-# Project-Sales-Revenue-Analysis-Dashboard-
-Sales &amp; Revenue Analysis Dashboard built using Power BI to analyze sales data and visualize KPIs like total revenue, orders, and top products. Includes interactive charts, slicers, and monthly trend analysis to gain business insights from raw data.
+Sales & Revenue Analysis Dashboard
+
+This project analyzes sales data using Power BI to visualize revenue trends, top products, and key KPIs like total sales and orders.
+
+Tools Used:
+- Power BI
+- Excel
+
+Features:
+- Interactive dashboard with slicers
+- Monthly sales trend analysis
+- Top-performing products
+
+How to use:
+Open the .pbix file in Power BI Desktop.
